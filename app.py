@@ -30,7 +30,7 @@ sidebar = html.Div(
         html.H2("Показатели стран мира", className="display-6"),
         html.Hr(),
         html.P(
-            "Учебный проект Макарова А.В. БСБО-14-21", className="lead"
+            "Учебный проект Калинина Ю.А. БСБО-14-21", className="lead"
         ),
         dbc.Nav(
             [
